@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melgonvyn
-- 👀 I’m interested in Data Science, Nature and many other things!
+- 👀 I’m interested in Data Science, Nature, Books and many other things!
 - 🌱 I’m currently learning Data Analytics in College.
 - 💞️ I’m looking to collaborate on Coding projects and anything that looks cool.
 - 📫 How to reach me, to be decided.
